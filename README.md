@@ -1,4 +1,4 @@
-# myvue
+# daily use of vue2
 
 ## Project setup
 ```
